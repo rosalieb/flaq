@@ -1,0 +1,12 @@
+Package: flaq
+Title: Functions for L'Assistant de Qualification
+Version: 0.0.0.9000
+Authors@R: c(
+      person("Chloé", "Le Bescond", , "chloe.le-bescond@inrae.fr", role = c("aut")),
+      person("Rosalie", "Bruel", , "rosalie.bruel@ofb.gouv.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8351-7539")))
+Description: The package flaq contains functions for the application L'Assistant de Qualification created at Pole R&D ECLA (Aix-en-Provence, France). The goal of the app is to read and qualify high-frequency data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
